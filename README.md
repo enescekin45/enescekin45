@@ -6,11 +6,13 @@
 ---
 
 ### 🧐 Hakkımda Daha Fazlası:
-- 🔭 Şu anda **BusBooking (Otobüs rezervasyon sistemi)** üzerinde çalışıyorum.
-- 🤝 **GitHub'da açık kaynak projelerine katkıda bulunmayı** hedefliyorum.
-- 🌱 **Şu anda React ve C# ile kendimi geliştiriyorum.**
-- 👨🏻‍💻 **Projelerimin çoğu [GitHub](#) profilimde mevcut.**
-- 💬 **Web geliştirme ve yazılım hakkında her türlü soruyu sorabilirsiniz!**
+🔭 Şu anda **BusBooking** (Otobüs rezervasyon sistemi) üzerinde çalışıyorum.  
+🤝 GitHub'da açık kaynak projelerine katkıda bulunmayı hedefliyorum.  
+🌱 **React ile hava durumu uygulaması**, **C# ile restoran ve petrol yönetim sistemi** ile **yurt kayıt sistemi** geliştiriyorum.  
+🎬 **PHP ile hastane yönetim sistemi ve film platformu** projeleri geliştirdim.  
+👨🏻‍💻 Çoğu projem GitHub profilimde mevcut.  
+💬 Web geliştirme ve yazılım hakkında her türlü soruyu sorabilirsiniz!  
+
 
 ---
 
