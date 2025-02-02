@@ -32,3 +32,8 @@
 #### 🗄 Veritabanı:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=enescekin45&show_icons=true&locale=en&layout=compact" alt="enescekin45" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enescekin45&" alt="enescekin45" /></p>
+
+
