@@ -1,36 +1,40 @@
-## Hey 👋, I'm Enes Çekin!
+## 👋 Merhaba, ben Enes Çekin!
+### 📍 Web Developer | Bilgisayar Programcısı
 
-<a href='https://www.linkedin.com/in/enescekin'><img align='left' alt="LinkedIn" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-<a href='https://github.com/enescekin'><img align='left' alt="GitHub" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" height='18px'/></a>
-<a href='https://twitter.com/enescekin'><img alt="Twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
+Çok yönlü bir geliştiriciyim ve proje gereksinimlerine bağlı olarak farklı alanlarda çalışabilirim. Web geliştirme ve veritabanı yönetimi alanlarında kendimi sürekli geliştiriyorum. Yeni teknolojileri keşfetmeyi ve bunları kullanarak harika projeler inşa etmeyi seviyorum! 🚀
 
-I am a passionate **Full Stack Web Developer** 🌐 and **Software Engineer** 💻. I love exploring new technologies and working on challenging projects that improve my skills and knowledge. 
+---
 
-### 🧐 More About Me:
+### 🧐 Hakkımda Daha Fazlası:
+- 🔭 Şu anda **BusBooking (Otobüs rezervasyon sistemi)** üzerinde çalışıyorum.
+- 🤝 **GitHub'da açık kaynak projelerine katkıda bulunmayı** hedefliyorum.
+- 🌱 **Şu anda React ve C# ile kendimi geliştiriyorum.**
+- 👨🏻‍💻 **Projelerimin çoğu [GitHub](#) profilimde mevcut.**
+- 💬 **Web geliştirme ve yazılım hakkında her türlü soruyu sorabilirsiniz!**
 
-- 🔭 I’m currently working on **BusBooking Project** 🚍
-- 🌱 I’m learning **C# and .NET Framework**
-- 👨🏻‍💻 Most of my projects are available on [GitHub](https://github.com/enescekin)
-- 💬 Ask me anything about **Web Development & Software Engineering**
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/enescekin)
+---
 
-### 🔨 Languages and Tools:
-<a href="https://dotnet.microsoft.com/" target="_blank"> <img align="left" alt=".NET" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"> </a>
-<a href="https://www.w3.org/html/" target="_blank"> <img align="left" alt="HTML5" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"> </a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img align="left" alt="CSS3" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> </a>
-<a href="https://www.mysql.com/" target="_blank"> <img align="left" alt="MySQL" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"> </a>
-<a href="https://git-scm.com/" target="_blank"> <img align="left" alt="Git" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> </a>
+### 🔨 Diller ve Araçlar:
 
-<br/>
+#### 💻 Programlama Dilleri:
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 📊 GitHub Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=enescekin&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=enescekin&layout=compact&theme=dark)
+#### 🌐 Web Teknolojileri:
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-### 🚀 My Projects:
-- [BusBooking System](https://github.com/enescekin/BusBooking)
-- [Library Management System](https://github.com/enescekin/LibraryManagement)
-- [Portfolio Website](https://enescekin.github.io/)
+#### 🗄 Veritabanı:
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-Let's connect and create something amazing together! 🚀
+#### 📌 Diğer Araçlar:
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![SEO](https://img.shields.io/badge/SEO-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+---
+
+📎 **GitHub Profilim:** [GitHub](#)
