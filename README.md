@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enescekin45&label=Profile%20views&color=0e75b6&style=flat" alt="enescekin45" /> </p>
 
-<h3 align="left">Benimle iletişime geçin:</h3>
 <p align="left">
 </p>
 
